@@ -1,0 +1,12 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+var AlignmentTypes = exports.AlignmentTypes = undefined;
+(function (AlignmentTypes) {
+    AlignmentTypes[AlignmentTypes["left"] = 'left'] = "left";
+    AlignmentTypes[AlignmentTypes["center"] = 'center'] = "center";
+    AlignmentTypes[AlignmentTypes["right"] = 'right'] = "right";
+})(AlignmentTypes || (exports.AlignmentTypes = AlignmentTypes = {}));
+//# sourceMappingURL=alignment.type.js.map
